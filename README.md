@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2 align=center> Hi, I'm Jakob 👋</h2>
 
-<!--
-**JakobKlotz/JakobKlotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Teaching & Research Assistant at
+[MCI | The Entrepreneurial School®](https://www.mci.edu/)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````python
+jakob = {
+    "code": ["Python", "R"],
+    "tools": [
+        "Docker",
+        "scikit-learn",
+        "tensorflow",
+        "FastAPI",
+        "streamlit",
+        "h2o-wave",
+        "some more...",
+    ],
+    "challenge": "Advent of Code",
+}
+````
+
+Contact 📧
+
+- [jakob.klotz@mci.edu](mailto:jakob.klotz@mci.edu)
