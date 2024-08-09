@@ -1,9 +1,12 @@
 <h2 align=center> Hi, I'm Jakob 👋</h2>
 
-- Teaching & Research Assistant at
+### Profession
+
+- Data Scientist
+- Teaching & Research Assistant @
 [MCI | The Entrepreneurial School®](https://www.mci.edu/)
 
-### About me
+### About me 🐍
 
 ````python
 jakob = {
