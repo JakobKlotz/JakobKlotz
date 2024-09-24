@@ -7,17 +7,16 @@
 
 <div align="center">
   <h3>Profession</h3>
-  <ul style="list-style:none;">
-    <li>Data Scientist</li>
-    <li>Teaching & Research Assistant @ <a href="https://www.mci.edu/">MCI | The Entrepreneurial School®</a></li>
-  </ul>
+    Data Scientist
+    <br>
+    Teaching & Research Assistant @ <a href="https://www.mci.edu/">MCI | The Entrepreneurial School®</a>
   <hr>
   <h3>Languages</h3>
-  <a href="https://www.python.org/" title="Python"><img src="assets/icons/python.png" width="80" height="100"/></a>
-  <a href="https://www.r-project.org/" title="R"><img src="assets/icons/Rlogo.png" width="120" height="100"/></a>
+  <a href="https://www.python.org/" title="Python"><img src="assets/icons/python.png" width="70" height="90"/></a>
+  <a href="https://www.r-project.org/" title="R"><img src="assets/icons/Rlogo.png" width="100" height="90"/></a>
   <br>
   <hr>
-  <img src="assets/e-mail.gif" alt="email gif">
+  <img src="assets/e-mail.gif" alt="email gif" width="80">
   <br>
   <a href="mailto:jakob.klotz@mci.edu">jakob.klotz@mci.edu</a>
 </div>
