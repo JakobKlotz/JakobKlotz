@@ -1,11 +1,11 @@
-<p style="text-align:center"><img src="assets/awesome-banner.PNG" alt="awesome banner" width="570"></p>
-<p style="text-align:center">
+<p style="align:center"><img src="assets/awesome-banner.PNG" alt="awesome banner" width="570"></p>
+<p style="align:center">
   <img src="assets/earth.gif" alt="earth gif">
 </p>
 
 <hr>
 
-<div style="text-align:center">
+<div style="align:center">
   <h3>Profession</h3>
   <ul style="list-style:none;">
     <li>Data Scientist</li>
