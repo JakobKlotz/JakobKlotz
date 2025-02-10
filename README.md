@@ -8,8 +8,6 @@
 <div align="center">
   <h3>Profession</h3>
     Data Scientist
-    <br>
-    Teaching & Research Assistant @ <a href="https://www.mci.edu/">MCI | The Entrepreneurial School®</a>
   <hr>
   <h3>Languages</h3>
   <a href="https://www.python.org/" title="Python"><img src="assets/icons/python.png" width="70" height="90"/></a>
