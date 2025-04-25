@@ -1,20 +1,22 @@
-<p align="center"><img src="assets/awesome-banner.PNG" alt="awesome banner" width="570"></p>
-<p align="center">
-  <img src="assets/earth.gif" alt="earth gif">
-</p>
+<p align="center"><img src="assets/banner.png" alt="awesome banner" width="400"></p>
+
+👋🏽 I specialize in Python and applying machine learning across diverse domains. 
+I'm passionate about open source and developing applications. Currently, I 
+teach Python and Data Science at MCI. Course materials are available on GitHub 
+([here](https://mciwing.github.io/))
 
 <hr>
 
 <div align="center">
-  <h3>Profession</h3>
-    Data Scientist
-  <hr>
-  <h3>Languages</h3>
-  <a href="https://www.python.org/" title="Python"><img src="assets/icons/python.png" width="70" height="90"/></a>
-  <a href="https://www.r-project.org/" title="R"><img src="assets/icons/Rlogo.png" width="100" height="90"/></a>
+  <h3>My preferred languages & tools 🚀</h3>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <br>
-  <hr>
-  <img src="assets/e-mail.gif" alt="email gif" width="80">
-  <br>
-  <a href="mailto:jakob.klotz@mci.edu">jakob.klotz@mci.edu</a>
 </div>
+<hr>
+<p align="center">
+  <img src="assets/earth.gif" alt="earth gif" width="70">
+</p>
