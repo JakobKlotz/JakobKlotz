@@ -1,35 +1,44 @@
-<p align="center">
-  <img src="assets/banner.png" alt="awesome banner" width="400" />
-</p>
+<h2 align="center">Hi 👋, I'm Jakob - Python & Geoinformatics • ML • Teaching</h2>
 
-## About Me
-
-👋🏽 I specialize in Python and applying machine learning across diverse domains.
+I specialize in Python and applying machine learning across diverse domains.
 I'm passionate about open source and developing applications. Currently, I
 focus on geoinformatics and teach Python plus Data Science. Course materials are available on GitHub
 ([here](https://mciwing.github.io/)).
 
+<div align="center">
+  <h2>Contact</h2>
+  <h3>
+    <a href="mailto:me@jakob-klotz.at">Email</a> •
+    <a href="https://jakob-klotz.at" target="_blank">Website</a>
+  </h3>
+  <hr>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakobKlotz&layout=compact&theme=dark&title_color=0a8b7d" alt="top languages" />
+</div>
+
 <hr />
 
 <div align="center">
-  <h3>Languages</h3>
+  <h4>Languages</h4>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
-  <h3>Frameworks | Platforms</h3>
+  <h4>Frameworks | Platforms</h4>
   <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
-  <h3>Machine Learning</h3>
+  <h4>Machine Learning</h4>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 
-  <h3>CI / CD</h3>
+  <h4>CI / CD</h4>
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Singularity-8A2BE2?style=for-the-badge&logo=apptainer&logoColor=white" alt="Singularity" />
