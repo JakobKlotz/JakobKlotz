@@ -2,9 +2,11 @@
   <img src="assets/banner.png" alt="awesome banner" width="400" />
 </p>
 
+## About Me
+
 👋🏽 I specialize in Python and applying machine learning across diverse domains.
 I'm passionate about open source and developing applications. Currently, I
-teach Python and Data Science at MCI. Course materials are available on GitHub
+focus on geoinformatics and teach Python plus Data Science. Course materials are available on GitHub
 ([here](https://mciwing.github.io/)).
 
 <hr />
