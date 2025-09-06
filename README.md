@@ -7,10 +7,10 @@ focus on geoinformatics and teach Python plus Data Science. Course materials are
 
 <div align="center">
   <h2>Contact</h2>
-  <h3>
-    <a href="mailto:me@jakob-klotz.at">Email</a> •
-    <a href="https://jakob-klotz.at" target="_blank">Website</a>
-  </h3>
+  <h2>
+    <a href="https://jakob-klotz.at" target="_blank">Website</a> •
+    <a href="mailto:me@jakob-klotz.at">Email</a>
+  </h2>
   <hr>
 </div>
 
