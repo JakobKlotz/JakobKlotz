@@ -2,7 +2,11 @@
   <img src="assets/hey.GIF" width="150"/>
 </div>
 
-<h1 align="center">I'm Jakob 👋<br>Python • ML • Geoinformatics • Teaching</h1>
+<!-- Inline color for "Jakob". Note: GitHub strips many inline styles; color may not appear on github.com. -->
+<h1 align="center">
+  <strong>I'm <span style="color:#0a8b7d">Jakob Klotz</span></strong> 👋<br>
+  Python • ML • Geoinformatics • Teaching
+</h1>
 
 <h2 align="center">About</h2>
 
