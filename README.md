@@ -24,8 +24,8 @@ projects and simply for fun - visit my page for more! 💫🖌️
   </h2>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakobKlotz&layout=compact&theme=dark&title_color=0a8b7d" alt="top languages" />
-</div>
+</div> -->
 
-<hr />
+<!-- <hr /> -->
