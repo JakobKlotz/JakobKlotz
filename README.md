@@ -4,19 +4,17 @@
 
 <h1 align="center">
   <strong>I'm Jakob Klotz</strong> 👋<br>
-  Python • ML • Geoinformatics • Teaching
+  <br>
+  Machine Learning • Geoinformatics
 </h1>
-
-<h2 align="center">About</h2>
 
 I specialize in Python and applying machine learning across diverse domains.
 I'm passionate about open source and developing applications. Currently, I
 focus on geoinformatics and teach Python plus Data Science (available 
-[here](https://mciwing.github.io/)). I do my own illustrations and designs for 
-projects and simply for fun - visit my page for more! 💫🖌️
+[here](https://mciwing.github.io/)). Visit my page for more info! 💫
 
 <div align="center">
-  <h2>🧑‍💻 Contact
+  <h2
   <br>
   <br>
     <a href="https://jakob-klotz.at" target="_blank">Website</a> •
