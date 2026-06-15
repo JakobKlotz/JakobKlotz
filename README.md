@@ -8,10 +8,9 @@
   Machine Learning • Geoinformatics
 </h1>
 
-I specialize in Python and applying machine learning across diverse domains.
-I'm passionate about open source and developing applications. Currently, I
-focus on geoinformatics and teach Python plus Data Science (available 
-[here](https://mciwing.github.io/)). Visit my page for more info! 💫
+I specialize in machine learning and geoinformatics, with a passion for open 
+source. I've taught courses on Python and Data Science.
+Visit my page for more info! 💫
 
 <div align="center">
   <h2
