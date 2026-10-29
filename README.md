@@ -5,7 +5,7 @@
 <h1 align="center">
   <strong>I'm Jakob Klotz</strong> 👋<br>
   <br>
-  Machine Learning • Geoinformatics
+  Machine Learning • Earth Observation
 </h1>
 
 I specialize in machine learning and earth observation, with a passion for open 
@@ -20,9 +20,3 @@ Visit my page for more info! 💫
     <a href="mailto:me@jakob-klotz.at">Email</a>
   </h2>
 </div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakobKlotz&layout=compact&theme=dark&title_color=0a8b7d" alt="top languages" />
-</div> -->
-
-<!-- <hr /> -->
