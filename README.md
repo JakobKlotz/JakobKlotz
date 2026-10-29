@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hey.GIF" width="150"/>
+  <img src="assets/hey.GIF" width="75"/>
 </div>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
   Machine Learning • Geoinformatics
 </h1>
 
-I specialize in machine learning and geoinformatics, with a passion for open 
+I specialize in machine learning and earth observation, with a passion for open 
 source. I've taught courses on Python and Data Science.
 Visit my page for more info! 💫
 
